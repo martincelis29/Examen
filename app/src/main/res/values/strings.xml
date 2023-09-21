@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Examen</string>
+    <string name="volver">Volver</string>
+    <string name="agregar_lugar">Agregar Lugar</string>
+    <string name="costo_por_noche">Costo por Noche</string>
+    <string name="traslados">Traslados</string>
+    <string name="comentarios">Comentarios</string>
+    <string name="lugar">Lugar</string>
+    <string name="imagen">Imagen</string>
+    <string name="orden">Orden</string>
+    <string name="latitud">Latitud</string>
+    <string name="longitud">Longitud</string>
+    <string name="costo_alojamiento">Costo Alojamiento</string>
+    <string name="costo_traslados">Costo Traslados</string>
+    <string name="alerta_agregar_o_editar">Por favor, complete todos los campos requeridos.</string>
+    <string name="agregar">Agregar</string>
+    <string name="guardar">Guardar</string>
+    <string name="eliminar">Eliminar</string>
+    <string name="obtener_ubicacion">Obtener Ubicacion</string>
+
+
+</resources>
